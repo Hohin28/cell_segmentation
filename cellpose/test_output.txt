@@ -1,0 +1,11 @@
+IMPORT OK
+COUNT: 2
+BOUNDARIES: 2 cells
+  cell 1: area=1245 perim=128.6
+  cell 2: area=5013 perim=260.5
+CLASSIFY (auto): {1: 'Parabasal', 2: 'Superficial'}
+CLASSIFY (blood): {1: 'RBC', 2: 'WBC'}
+CLASSIFY (histology): {1: 'Lymphocyte', 2: 'Epithelial'}
+CLASSIFY (papsmear): {1: 'Parabasal', 2: 'Superficial'}
+SEPARATION: 2 cells after
+DONE
